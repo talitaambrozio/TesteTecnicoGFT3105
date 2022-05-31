@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24981989-7894-4467-9563-9c8fd5e2f42c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Desafio01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Desafio02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio02/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Desafio03/Automovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio03/Automovel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Desafio03/Caminhao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio03/Caminhao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Desafio03/Esportivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio03/Esportivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Desafio03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio03/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Desafio04/Agenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio04/Agenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Desafio04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio04/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +94,18 @@
       <option name="presentableId" value="Default" />
       <updated>1654024382428</updated>
     </task>
+    <task id="LOCAL-00001" summary="atualizacao desafio 2">
+      <created>1654030271206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654030271206</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="atualizacao desafio 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizacao desafio 2" />
   </component>
 </project>
