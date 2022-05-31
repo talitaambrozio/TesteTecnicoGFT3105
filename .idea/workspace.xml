@@ -1,17 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24981989-7894-4467-9563-9c8fd5e2f42c" name="Changes" comment="" />
+    <list default="true" id="24981989-7894-4467-9563-9c8fd5e2f42c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio03/Automovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio03/Automovel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio03/Caminhao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio03/Caminhao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio03/Esportivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio03/Esportivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio04/Agenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio04/Agenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio04/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="29wVxRzLcfVkMb4llj20O65wA7g" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,6 +45,54 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Desafio02.Main">
+    <configuration name="Desafio02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio02.Main" />
+      <module name="TesteTecnicoGFT3105" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Desafio02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio04.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio04.Main" />
+      <module name="TesteTecnicoGFT3105" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Desafio04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio03.Main" />
+      <module name="TesteTecnicoGFT3105" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Desafio03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Desafio02.Main" />
+        <item itemvalue="Application.Desafio04.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
